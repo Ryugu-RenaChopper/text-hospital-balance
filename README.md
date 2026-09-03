@@ -253,8 +253,10 @@ mvn test
 - 分析、治理和示例 API
 
 ## 页面截图
+<img width="865" height="492" alt="image" src="https://github.com/user-attachments/assets/76013b22-d66b-4122-a6cd-19468b0f93b1" />
 
-截图将在人工确认公开内容和许可证后放入 `docs/screenshots/`。建议展示数据输入、诊断图表和 Before/After 三个区域。
+<img width="865" height="488" alt="image" src="https://github.com/user-attachments/assets/53183d9d-8571-4a3b-a1bc-02ad85d43afb" />
+
 
 ## 已知限制
 
