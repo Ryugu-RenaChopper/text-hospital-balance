@@ -1,0 +1,50 @@
+[
+  {
+    "id": "balanced-01",
+    "text": "Synthetic sample 01.",
+    "source": "source-a",
+    "materialSystem": "system-alpha",
+    "ner": [[0, 8, "item-a", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "balanced-02",
+    "text": "Synthetic sample 02.",
+    "source": "source-b",
+    "materialSystem": "system-beta",
+    "ner": [[0, 8, "item-b", "PROPERTY"]],
+    "relations": [[0, 8, 10, 18, "IMPROVES"]]
+  },
+  {
+    "id": "balanced-03",
+    "text": "Synthetic sample 03.",
+    "source": "source-c",
+    "materialSystem": "system-gamma",
+    "ner": [[0, 8, "item-c", "VALUE"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "balanced-04",
+    "text": "Synthetic sample 04.",
+    "source": "source-a",
+    "materialSystem": "system-alpha",
+    "ner": [[0, 8, "item-d", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "IMPROVES"]]
+  },
+  {
+    "id": "balanced-05",
+    "text": "Synthetic sample 05.",
+    "source": "source-b",
+    "materialSystem": "system-beta",
+    "ner": [[0, 8, "item-e", "PROPERTY"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "balanced-06",
+    "text": "Synthetic sample 06.",
+    "source": "source-c",
+    "materialSystem": "system-gamma",
+    "ner": [[0, 8, "item-f", "VALUE"]],
+    "relations": [[0, 8, 10, 18, "IMPROVES"]]
+  }
+]

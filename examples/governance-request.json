@@ -1,0 +1,19 @@
+{
+  "dataset": [
+    {
+      "id": "governance-demo-01",
+      "text": "Synthetic governance sample.",
+      "source": "source-demo",
+      "materialSystem": "system-demo",
+      "ner": [[0, 8, "item-a", "RARE_TYPE"]],
+      "relations": [[0, 8, 10, 18, "RELATED_TO"]]
+    }
+  ],
+  "targetKind": "ENTITY",
+  "targetType": "RARE_TYPE",
+  "targetCount": 3,
+  "randomSeed": 42,
+  "imbalanceRatioThreshold": 10,
+  "giniThreshold": 0.4,
+  "thresholdMode": "AND"
+}

@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: text-hospital-balance-public
+
+balance:
+  thresholds:
+    imbalance-ratio: 10.0
+    gini: 0.4
+    mode: AND

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "imbalanced-01",
+    "text": "Synthetic sample 01.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-01", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-02",
+    "text": "Synthetic sample 02.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-02", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-03",
+    "text": "Synthetic sample 03.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-03", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-04",
+    "text": "Synthetic sample 04.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-04", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-05",
+    "text": "Synthetic sample 05.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-05", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-06",
+    "text": "Synthetic sample 06.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-06", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-07",
+    "text": "Synthetic sample 07.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-07", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-08",
+    "text": "Synthetic sample 08.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-08", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-09",
+    "text": "Synthetic sample 09.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-09", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-10",
+    "text": "Synthetic sample 10.",
+    "source": "source-majority",
+    "materialSystem": "system-majority",
+    "ner": [[0, 8, "item-10", "MATERIAL"]],
+    "relations": [[0, 8, 10, 18, "HAS_PROPERTY"]]
+  },
+  {
+    "id": "imbalanced-11",
+    "text": "Synthetic sample 11.",
+    "source": "source-minority",
+    "materialSystem": "system-minority",
+    "ner": [[0, 8, "item-11", "RARE_ADDITIVE"]],
+    "relations": [[0, 8, 10, 18, "IMPROVES"]]
+  },
+  {
+    "id": "imbalanced-12",
+    "text": "Synthetic sample 12.",
+    "source": "source-minority",
+    "materialSystem": "system-minority",
+    "ner": [[0, 8, "item-12", "PROPERTY"]],
+    "relations": []
+  }
+]
